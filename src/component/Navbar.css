@@ -1,0 +1,27 @@
+.navbar {
+  border: 2px solid rgba(215, 215, 215, 1);
+  border-radius: 5px;
+  background-color: rgba(215, 215, 215, 1);
+}
+
+.home-link a {
+  color: rgba(63, 63, 63, 1);
+  font-weight: bold;
+  text-decoration: none;
+  padding: 5px;
+
+}
+
+.owner-link a {
+  color: rgba(63, 63, 63, 1);
+  font-weight: bold;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.link {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 5px;
+}
